@@ -1,6 +1,3 @@
-
-pip install PyMuPDF
-
 import xlwt
 import numpy as np
 import pandas as pd
